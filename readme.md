@@ -120,6 +120,7 @@ The application provides:
 - Dataset Summary
 
 ---
+DEPLOYMENT LINK - https://student-score-prediction-app-1.onrender.com/
 
 ## 🎯 Future Improvements
 
